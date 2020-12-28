@@ -9,31 +9,48 @@ RTL implementation should be succinct wherever possible, with extensive use of S
 
 ### Timeline
  * Basic Architectural Definition 
+<<<<<<< HEAD
    * 8/31/2020
  * Basic Microarchitectural Definition 
    * 9/14/2020
+=======
+   * Not Relevant -- Spec Given
+ * Basic Microarchitectural Definition 
+>>>>>>> 8c742d4858c7f13cadfe85a3578c13f4c1d4268e
    * Functional block shells complete and stitched
    * C Model Work?
    * Basic Verification Infrastructure around shells
  * Implementation Milestone 1
+<<<<<<< HEAD
    * 9/21/2020
+=======
+>>>>>>> 8c742d4858c7f13cadfe85a3578c13f4c1d4268e
    * TBD Subset of instructions complete
    * Basic core to memory accesses simulated
    * 50% of instruction and code-primitive unit tests written
    * Compiler toolchain for implementation investigated and documented
  * Implementation Milestone 2
+<<<<<<< HEAD
    * 10/5/2020
+=======
+>>>>>>> 8c742d4858c7f13cadfe85a3578c13f4c1d4268e
    * All RV32I instructions implemented
    * 100% of instruction and code-primitive unit tests written
    * Architectural-level performance optimizations investigated
    * Program-level simulations run
  * Implementation Finished
+<<<<<<< HEAD
    * 10/19/2020
+=======
+>>>>>>> 8c742d4858c7f13cadfe85a3578c13f4c1d4268e
    * 100% of tests written and passing
    * 4 major performance optimizations performed
    * Final C code programs simulated in full on implementation
  * Core Finished
+<<<<<<< HEAD
    * 10/26/2020
+=======
+>>>>>>> 8c742d4858c7f13cadfe85a3578c13f4c1d4268e
    * MISC-V demonstrated on Xilinx Arty-7-35T FPGA board with working code
    
  
